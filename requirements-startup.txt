@@ -81,7 +81,7 @@ qrcode
 random_cli
 regex
 remotezip
-requests==2.22.0
+requests==2.31.0
 schedule
 search-engine-parser
 selenium
